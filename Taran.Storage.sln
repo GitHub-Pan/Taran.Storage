@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taran.Storage.Core", "src\Taran.Storage.Core\Taran.Storage.Core.csproj", "{E00B285F-1061-4133-844E-9498AFDD8656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taran.Storage.Cmd", "src\Taran.Storage.Cmd\Taran.Storage.Cmd.csproj", "{FBB6CADE-A41D-405D-80FC-6E1AA19081ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E00B285F-1061-4133-844E-9498AFDD8656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00B285F-1061-4133-844E-9498AFDD8656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00B285F-1061-4133-844E-9498AFDD8656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00B285F-1061-4133-844E-9498AFDD8656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB6CADE-A41D-405D-80FC-6E1AA19081ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB6CADE-A41D-405D-80FC-6E1AA19081ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB6CADE-A41D-405D-80FC-6E1AA19081ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB6CADE-A41D-405D-80FC-6E1AA19081ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0C95EA3-4E21-46B7-9E10-2BA096691CB8}
+	EndGlobalSection
+EndGlobal
